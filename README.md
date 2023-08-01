@@ -12,4 +12,4 @@ The API follows a simple workflow to ensure smooth integration and data presenta
 
 3. **Endpoint Setup**: Create another file in the App Script editor that sets up the API endpoint, allowing communication between your website and Google Sheets.
 
-4. **Website Integration**: Use the provided HTML and JavaScript project from the "simple-website" repository to display data on your website. Customize the code to match your website's design and integrate the API to fetch and display data.
+4. **Website Integration**: Use the provided HTML and JavaScript project from the repository to display data on your website. Customize the code to match your website's design and integrate the API to fetch and display data.
