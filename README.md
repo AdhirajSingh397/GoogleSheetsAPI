@@ -1,5 +1,5 @@
 # GoogleSheetsAPI
-developed an API (using google script) that retrieves data from Google Sheets and displays it on a website. To achieve this, we employ a Google Script that scrapes data from the MLH website and stores it in Google Sheets. The collected data is then utilized by our API to present it on the website. Ins
+developed an API (using google script) that retrieves data from Google Sheets and displays it on a website. To achieve this, we employ a Google Script that scrapes data from the MLH website and stores it in Google Sheets. The collected data is then utilized by our API to present it on the website. Inspired from MLH hackathon, event hosted by Wei.
 
 
 ## How it Works
